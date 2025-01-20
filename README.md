@@ -5,3 +5,5 @@
 *Este fichero se va a añadir en el repositorio remoto*
 
 **Vamos a utilizar los comandos git clone, pull, fetch**
+
+*En esta prueba vamos a utilizar **git fetch** y **git merge***
