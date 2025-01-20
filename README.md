@@ -17,5 +17,5 @@ En esta prueba vamos a utilizar una lista de los pasos a seguir
 
 1. Paso
 2. Paso
-   2.1 Paso
-   2.2 Paso
+2.1 Paso
+2.2 Paso
