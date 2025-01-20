@@ -15,8 +15,6 @@ En esta prueba vamos a utilizar una lista de los pasos a seguir
   * Paso 2.1
   * Paso 2.2
 
-- Paso
-- caca
-- pene
-  - pene
-  - caca
+1. Paso
+2. Paso
+3. Paso
